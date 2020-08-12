@@ -7,7 +7,7 @@ Test asigment
 \# Clone repository
 
 ```
-git clone https://github.com/irynahotsiy/Chat_Sample.git
+https://github.com/irynahotsiy/drinks_app.git
 ```
 
 \# Install dependencies
