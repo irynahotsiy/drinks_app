@@ -1,4 +1,4 @@
-## Cocktail App
+## Drinks App
 
 Test asigment
 
