@@ -1,6 +1,6 @@
 ## Drinks App
 
-Test asigment
+Test assignment
 
 ## Instructions
 
